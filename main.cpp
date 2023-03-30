@@ -9,9 +9,8 @@ int main(){
     cout<<((b*a)/2);
     cout<<(a*a);
     cout<<(a*b);
-    cout<<(((a+b)*c)/2)
-
-
+    cout<<(((a+b)*c)/2);
+    return 0;
 
 
 }
