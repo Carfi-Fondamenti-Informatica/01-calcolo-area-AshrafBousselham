@@ -2,11 +2,16 @@
 using namespace std;
 
 int main(){
-//Qui vanno definite le variabili
+    float a;
+    float b;
+    float c;
+    cin >> a >> b >> c;
+    cout<<((b*a)/2);
+    cout<<(a*a);
+    cout<<(a*b);
+    cout<<(((a+b)*c)/2)
 
-cin >> a >> b >> c;
 
-//Qui va scritto il codice per eseguire i calcoli richiesti
 
 
 }
